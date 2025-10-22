@@ -35,7 +35,7 @@ StudyBuddy is a Django-based discussion platform where users can create study ro
 1. Clone the repository
 
 ```bash
-git clone https://github.com/divanov11/studybuddy.git
+git clone https://github.com/ApexOrigin/studybuddy.git
 ```
 
 2. Create a virtual environment
